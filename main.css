@@ -1,0 +1,23 @@
+.main-div{
+    margin:0 auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.img-div{
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+}
+
+.output-div{
+    margin: 0 auto;
+    width: 50%;
+    padding: 10px;
+}
+
+
+.output-div label{
+    margin: 0 auto;
+   
+}
